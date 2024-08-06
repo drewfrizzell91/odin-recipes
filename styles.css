@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(233, 208, 178);
+}
+
+
+h1{
+text-align: center;
+}
+
+.recipes{
+    text-align: center;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+img{
+    margin-left: 220px;
+}
+
+.Ingredients{
+    margin-left: 150px;
+    font-size: 22px;
+    list-style-position: inside;
+    list-style-type: square;
+
+}
+
+h2{
+    text-align: center;
+
+}
+
+ol{
+    font-size: 18px;
+}
+
+li{
+    padding-bottom: 20px;
+}
